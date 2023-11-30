@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/kim/catkin_ws/src/mastering_ros_robot_description_pkg/build/devel/setup.sh
