@@ -10,10 +10,21 @@
   </node>
 
   <node name="joint_state_publisher" pkg="joint_state_publisher" type="joint_state_publisher"/>
+  <remap from="joint_states" to="/seven_dof_arm/joint_states" />
+  <include file="$(find seven_dof_arm_config)/launch/planning_context.launch">
+    <arg name="load_robot_description" value="false" />
+  </include>
+  <include file="$(find seven_dof_arm_config)/launch/planning_context.launch">
+    <arg name="load_robot_description" value="false" />
+  </include>
 
-
-
-
-
-
+  <include file="$(find seven_dof_arm_config)/launch/move_group.launch">
+    <arg name="publish_monitored_planning_scene" value="true" />
+  </include>
+  <include file="$(find seven_dof_arm_config)/launch/moveit_rviz.launch">
+    <arg name="publisher_monitored_planning_scene" value="true"/>
+  </include>
+  <include file="$(find seven_dof_arm_config)/launch/moveit_rviz.launch">
+    <arg name="rviz_config" value="#(find seven_dof_arm_config)/launch/moveit.rviz"/>
+  </include>
 </launch>
