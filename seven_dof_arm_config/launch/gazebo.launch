@@ -13,7 +13,7 @@
   </include>
 
   <!-- Set the robot urdf on the parameter server -->
-  <param name="robot_description" textfile="$(find mastering_ros_robot_description_pkg)/urdf/seven_dof_arm_moveit.urdf" />
+  <param name="robot_description" textfile="$(find seven_dof_arm_config)/config/gazebo_seven_dof_arm.urdf" />
 
   <!-- Unpause the simulation after loading the robot model -->
   <arg name="unpause" value="$(eval '' if arg('paused') else '-unpause')" />

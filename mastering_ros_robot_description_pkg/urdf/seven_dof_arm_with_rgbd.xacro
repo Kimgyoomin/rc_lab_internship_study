@@ -132,7 +132,7 @@ This link is the base of the arm in which arm is placed
       <geometry>
 	       <box size="1 1 0.02" />
       </geometry>
-      </collision>>
+      </collision>
 
   </link>
 
@@ -163,7 +163,7 @@ This link is the base of the arm in which arm is placed
 	       <box size="0.1 0.1 0.1" />
 		
       </geometry>
-      </collision>>
+      </collision>
 	<xacro:inertial_matrix mass="1"/>
 
   </link>
@@ -497,6 +497,35 @@ This link is the base of the arm in which arm is placed
   <gazebo reference="r_gripper_aft_link">
     <material>Gazebo/White</material>
   </gazebo>
+
+  <!-- Grasping Frame -->
+  <link name="grasping_frame">
+
+    <inertial>
+      <origin xyz="0 0 0" rpy="0 0 0"/>
+      <mass value="0.0001"/>
+      <cuboid_inertia mass="0.0001" x="0.001" y="0.001" z="0.001"/>
+      <inertia ixx="1.0" ixy="0.0" ixz="0.0" iyy="100.0" iyz="0.0" izz="1.0" />
+
+    </inertial>
+
+  <visual>
+    <origin xyz="0 0 0"/>
+    <geometry>
+      <!--
+      <box size="${grasp_frame_len} ${grasp_frame_width} ${grasp_frame_height}" />
+      -->
+    </geometry>
+    <material name="White" />
+  </visual>
+
+  </link>
+
+  <joint name="grasping_frame_joint" type="fixed">
+    <parent link="gripper_roll_link"/>
+    <child link="grasping_frame"/>
+    <origin xyz="0.08 0 0" rpy="0 0 0"/>
+  </joint>
 
   <!-- Define RGB-D sensor -->  
   <xacro:xtion_pro_live name="rgbd_camera" parent="base">

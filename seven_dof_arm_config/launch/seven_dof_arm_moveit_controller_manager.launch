@@ -1,8 +1,0 @@
-<launch>
-  <!-- 인수로 사용되는 파라미터 서버에 moveit_controller_manager를 로드한다. 
-  인수가 전달되지 않으면 moveit_simple_controller_manager가 설정된다. -->
-  <arg name="moveit_controller_manager" default="moveit_simple_controller_manager/MoveItSimpleControllerManager" />
-  <param name="moveit_controller_manager" value="$(arg moveit_controller_manager)"/>
-  <!-- ros_controllers를 파라미터 서버에 로드 -->
-  <rosparam file="$(find seven_dof_arm_config)/config/ros_controllers.yaml" />
-</launch>
