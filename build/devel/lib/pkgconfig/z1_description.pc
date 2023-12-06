@@ -1,0 +1,8 @@
+prefix=/home/kim/catkin_ws/src/build/devel
+
+Name: z1_description
+Description: Description of z1_description
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

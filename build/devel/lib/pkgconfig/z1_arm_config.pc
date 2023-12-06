@@ -1,0 +1,8 @@
+prefix=/home/kim/catkin_ws/src/build/devel
+
+Name: z1_arm_config
+Description: Description of z1_arm_config
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
