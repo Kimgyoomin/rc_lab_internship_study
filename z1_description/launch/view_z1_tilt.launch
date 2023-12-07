@@ -6,7 +6,7 @@
     <param name="robot_description" command="$(find xacro)/xacro $(find z1_description)/xacro/robot.xacro" />
     <node name="robot_state_publisher" pkg="robot_state_publisher" type="robot_state_publisher" />
 
-    <node name="joint_state_gui" pkg="joint_state_publisher" type="joint_state_publisher_gui" />
+    <node name="joint_state_publisher_gui" pkg="joint_state_publisher" type="joint_state_publisher_gui" />
 
         <!-- Launch visualization in rviz -->
     <node name="rviz" pkg="rviz" type="rviz" args="-d $(find z1_description)/urdf_z1.rviz" required="true" />
