@@ -240,38 +240,18 @@
   "file": "/home/kim/catkin_ws/src/gazebo_ros_pkgs/gazebo_ros_control/src/default_robot_hw_sim.cpp"
 },
 {
-  "directory": "/home/kim/catkin_ws/src/build/seven_dof_arm_test",
-  "command": "/usr/bin/aarch64-linux-gnu-g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"seven_dof_arm_test\\\" -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/include/bullet  -std=c++0x  -g   -o CMakeFiles/remove_collision_object.dir/src/remove_collision_object.cpp.o -c /home/kim/catkin_ws/src/seven_dof_arm_test/src/remove_collision_object.cpp",
-  "file": "/home/kim/catkin_ws/src/seven_dof_arm_test/src/remove_collision_object.cpp"
+  "directory": "/home/kim/catkin_ws/src/build/z1_arm_test",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"z1_arm_test\\\" -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/include/bullet  -g   -o CMakeFiles/test_random_node.dir/src/test_random.cpp.o -c /home/kim/catkin_ws/src/z1_arm_test/src/test_random.cpp",
+  "file": "/home/kim/catkin_ws/src/z1_arm_test/src/test_random.cpp"
 },
 {
-  "directory": "/home/kim/catkin_ws/src/build/seven_dof_arm_test",
-  "command": "/usr/bin/aarch64-linux-gnu-g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"seven_dof_arm_test\\\" -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/include/bullet  -std=c++0x  -g   -o CMakeFiles/attach_detach_object.dir/src/attach_detach_object.cpp.o -c /home/kim/catkin_ws/src/seven_dof_arm_test/src/attach_detach_object.cpp",
-  "file": "/home/kim/catkin_ws/src/seven_dof_arm_test/src/attach_detach_object.cpp"
+  "directory": "/home/kim/catkin_ws/src/build/z1_arm_test",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"z1_arm_test\\\" -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/include/bullet  -g   -o CMakeFiles/test_custom_node.dir/src/test_custom.cpp.o -c /home/kim/catkin_ws/src/z1_arm_test/src/test_custom.cpp",
+  "file": "/home/kim/catkin_ws/src/z1_arm_test/src/test_custom.cpp"
 },
 {
-  "directory": "/home/kim/catkin_ws/src/build/seven_dof_arm_test",
-  "command": "/usr/bin/aarch64-linux-gnu-g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"seven_dof_arm_test\\\" -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/include/bullet  -std=c++0x  -g   -o CMakeFiles/test_random_node.dir/src/test_random.cpp.o -c /home/kim/catkin_ws/src/seven_dof_arm_test/src/test_random.cpp",
-  "file": "/home/kim/catkin_ws/src/seven_dof_arm_test/src/test_random.cpp"
-},
-{
-  "directory": "/home/kim/catkin_ws/src/build/seven_dof_arm_test",
-  "command": "/usr/bin/aarch64-linux-gnu-g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"seven_dof_arm_test\\\" -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/include/bullet  -std=c++0x  -g   -o CMakeFiles/test_custom_node.dir/src/test_custom.cpp.o -c /home/kim/catkin_ws/src/seven_dof_arm_test/src/test_custom.cpp",
-  "file": "/home/kim/catkin_ws/src/seven_dof_arm_test/src/test_custom.cpp"
-},
-{
-  "directory": "/home/kim/catkin_ws/src/build/seven_dof_arm_test",
-  "command": "/usr/bin/aarch64-linux-gnu-g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"seven_dof_arm_test\\\" -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/include/bullet  -std=c++0x  -g   -o CMakeFiles/add_collision_object.dir/src/add_collision_object.cpp.o -c /home/kim/catkin_ws/src/seven_dof_arm_test/src/add_collision_object.cpp",
-  "file": "/home/kim/catkin_ws/src/seven_dof_arm_test/src/add_collision_object.cpp"
-},
-{
-  "directory": "/home/kim/catkin_ws/src/build/seven_dof_arm_test",
-  "command": "/usr/bin/aarch64-linux-gnu-g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"seven_dof_arm_test\\\" -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/include/bullet  -std=c++0x  -g   -o CMakeFiles/check_collision.dir/src/check_collision.cpp.o -c /home/kim/catkin_ws/src/seven_dof_arm_test/src/check_collision.cpp",
-  "file": "/home/kim/catkin_ws/src/seven_dof_arm_test/src/check_collision.cpp"
-},
-{
-  "directory": "/home/kim/catkin_ws/src/build/z1_test",
-  "command": "/usr/bin/aarch64-linux-gnu-g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"z1_test\\\" -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/include/bullet  -g   -o CMakeFiles/z1_test_random_node.dir/src/z1_test_random.cpp.o -c /home/kim/catkin_ws/src/z1_test/src/z1_test_random.cpp",
-  "file": "/home/kim/catkin_ws/src/z1_test/src/z1_test_random.cpp"
+  "directory": "/home/kim/catkin_ws/src/build/z1_arm_test",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"z1_arm_test\\\" -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/include/bullet  -g   -o CMakeFiles/add_collision_object.dir/src/add_collision_object.cpp.o -c /home/kim/catkin_ws/src/z1_arm_test/src/add_collision_object.cpp",
+  "file": "/home/kim/catkin_ws/src/z1_arm_test/src/add_collision_object.cpp"
 }
 ]

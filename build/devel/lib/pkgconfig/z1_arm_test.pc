@@ -1,0 +1,8 @@
+prefix=/home/kim/catkin_ws/src/build/devel
+
+Name: z1_arm_test
+Description: Description of z1_arm_test
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

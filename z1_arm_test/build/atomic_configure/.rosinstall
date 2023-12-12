@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/kim/catkin_ws/src/z1_arm_test/build/devel/setup.sh

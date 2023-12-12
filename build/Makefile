@@ -3284,7 +3284,7 @@ shape_msgs_generate_messages_py: cmake_check_build_system
 
 # fast build rule for target.
 shape_msgs_generate_messages_py/fast:
-	$(MAKE) -f seven_dof_arm_test/CMakeFiles/shape_msgs_generate_messages_py.dir/build.make seven_dof_arm_test/CMakeFiles/shape_msgs_generate_messages_py.dir/build
+	$(MAKE) -f z1_arm_test/CMakeFiles/shape_msgs_generate_messages_py.dir/build.make z1_arm_test/CMakeFiles/shape_msgs_generate_messages_py.dir/build
 .PHONY : shape_msgs_generate_messages_py/fast
 
 #=============================================================================
@@ -3297,7 +3297,7 @@ octomap_msgs_generate_messages_eus: cmake_check_build_system
 
 # fast build rule for target.
 octomap_msgs_generate_messages_eus/fast:
-	$(MAKE) -f seven_dof_arm_test/CMakeFiles/octomap_msgs_generate_messages_eus.dir/build.make seven_dof_arm_test/CMakeFiles/octomap_msgs_generate_messages_eus.dir/build
+	$(MAKE) -f z1_arm_test/CMakeFiles/octomap_msgs_generate_messages_eus.dir/build.make z1_arm_test/CMakeFiles/octomap_msgs_generate_messages_eus.dir/build
 .PHONY : octomap_msgs_generate_messages_eus/fast
 
 #=============================================================================
@@ -3310,7 +3310,7 @@ object_recognition_msgs_generate_messages_eus: cmake_check_build_system
 
 # fast build rule for target.
 object_recognition_msgs_generate_messages_eus/fast:
-	$(MAKE) -f seven_dof_arm_test/CMakeFiles/object_recognition_msgs_generate_messages_eus.dir/build.make seven_dof_arm_test/CMakeFiles/object_recognition_msgs_generate_messages_eus.dir/build
+	$(MAKE) -f z1_arm_test/CMakeFiles/object_recognition_msgs_generate_messages_eus.dir/build.make z1_arm_test/CMakeFiles/object_recognition_msgs_generate_messages_eus.dir/build
 .PHONY : object_recognition_msgs_generate_messages_eus/fast
 
 #=============================================================================
@@ -3323,7 +3323,7 @@ object_recognition_msgs_generate_messages_lisp: cmake_check_build_system
 
 # fast build rule for target.
 object_recognition_msgs_generate_messages_lisp/fast:
-	$(MAKE) -f seven_dof_arm_test/CMakeFiles/object_recognition_msgs_generate_messages_lisp.dir/build.make seven_dof_arm_test/CMakeFiles/object_recognition_msgs_generate_messages_lisp.dir/build
+	$(MAKE) -f z1_arm_test/CMakeFiles/object_recognition_msgs_generate_messages_lisp.dir/build.make z1_arm_test/CMakeFiles/object_recognition_msgs_generate_messages_lisp.dir/build
 .PHONY : object_recognition_msgs_generate_messages_lisp/fast
 
 #=============================================================================
@@ -3336,7 +3336,7 @@ moveit_msgs_generate_messages_py: cmake_check_build_system
 
 # fast build rule for target.
 moveit_msgs_generate_messages_py/fast:
-	$(MAKE) -f seven_dof_arm_test/CMakeFiles/moveit_msgs_generate_messages_py.dir/build.make seven_dof_arm_test/CMakeFiles/moveit_msgs_generate_messages_py.dir/build
+	$(MAKE) -f z1_arm_test/CMakeFiles/moveit_msgs_generate_messages_py.dir/build.make z1_arm_test/CMakeFiles/moveit_msgs_generate_messages_py.dir/build
 .PHONY : moveit_msgs_generate_messages_py/fast
 
 #=============================================================================
@@ -3349,7 +3349,7 @@ shape_msgs_generate_messages_cpp: cmake_check_build_system
 
 # fast build rule for target.
 shape_msgs_generate_messages_cpp/fast:
-	$(MAKE) -f seven_dof_arm_test/CMakeFiles/shape_msgs_generate_messages_cpp.dir/build.make seven_dof_arm_test/CMakeFiles/shape_msgs_generate_messages_cpp.dir/build
+	$(MAKE) -f z1_arm_test/CMakeFiles/shape_msgs_generate_messages_cpp.dir/build.make z1_arm_test/CMakeFiles/shape_msgs_generate_messages_cpp.dir/build
 .PHONY : shape_msgs_generate_messages_cpp/fast
 
 #=============================================================================
@@ -3362,7 +3362,7 @@ moveit_msgs_generate_messages_lisp: cmake_check_build_system
 
 # fast build rule for target.
 moveit_msgs_generate_messages_lisp/fast:
-	$(MAKE) -f seven_dof_arm_test/CMakeFiles/moveit_msgs_generate_messages_lisp.dir/build.make seven_dof_arm_test/CMakeFiles/moveit_msgs_generate_messages_lisp.dir/build
+	$(MAKE) -f z1_arm_test/CMakeFiles/moveit_msgs_generate_messages_lisp.dir/build.make z1_arm_test/CMakeFiles/moveit_msgs_generate_messages_lisp.dir/build
 .PHONY : moveit_msgs_generate_messages_lisp/fast
 
 #=============================================================================
@@ -3375,7 +3375,7 @@ moveit_msgs_generate_messages_eus: cmake_check_build_system
 
 # fast build rule for target.
 moveit_msgs_generate_messages_eus/fast:
-	$(MAKE) -f seven_dof_arm_test/CMakeFiles/moveit_msgs_generate_messages_eus.dir/build.make seven_dof_arm_test/CMakeFiles/moveit_msgs_generate_messages_eus.dir/build
+	$(MAKE) -f z1_arm_test/CMakeFiles/moveit_msgs_generate_messages_eus.dir/build.make z1_arm_test/CMakeFiles/moveit_msgs_generate_messages_eus.dir/build
 .PHONY : moveit_msgs_generate_messages_eus/fast
 
 #=============================================================================
@@ -3388,7 +3388,7 @@ moveit_msgs_generate_messages_cpp: cmake_check_build_system
 
 # fast build rule for target.
 moveit_msgs_generate_messages_cpp/fast:
-	$(MAKE) -f seven_dof_arm_test/CMakeFiles/moveit_msgs_generate_messages_cpp.dir/build.make seven_dof_arm_test/CMakeFiles/moveit_msgs_generate_messages_cpp.dir/build
+	$(MAKE) -f z1_arm_test/CMakeFiles/moveit_msgs_generate_messages_cpp.dir/build.make z1_arm_test/CMakeFiles/moveit_msgs_generate_messages_cpp.dir/build
 .PHONY : moveit_msgs_generate_messages_cpp/fast
 
 #=============================================================================
@@ -3401,7 +3401,7 @@ shape_msgs_generate_messages_nodejs: cmake_check_build_system
 
 # fast build rule for target.
 shape_msgs_generate_messages_nodejs/fast:
-	$(MAKE) -f seven_dof_arm_test/CMakeFiles/shape_msgs_generate_messages_nodejs.dir/build.make seven_dof_arm_test/CMakeFiles/shape_msgs_generate_messages_nodejs.dir/build
+	$(MAKE) -f z1_arm_test/CMakeFiles/shape_msgs_generate_messages_nodejs.dir/build.make z1_arm_test/CMakeFiles/shape_msgs_generate_messages_nodejs.dir/build
 .PHONY : shape_msgs_generate_messages_nodejs/fast
 
 #=============================================================================
@@ -3414,7 +3414,7 @@ object_recognition_msgs_generate_messages_py: cmake_check_build_system
 
 # fast build rule for target.
 object_recognition_msgs_generate_messages_py/fast:
-	$(MAKE) -f seven_dof_arm_test/CMakeFiles/object_recognition_msgs_generate_messages_py.dir/build.make seven_dof_arm_test/CMakeFiles/object_recognition_msgs_generate_messages_py.dir/build
+	$(MAKE) -f z1_arm_test/CMakeFiles/object_recognition_msgs_generate_messages_py.dir/build.make z1_arm_test/CMakeFiles/object_recognition_msgs_generate_messages_py.dir/build
 .PHONY : object_recognition_msgs_generate_messages_py/fast
 
 #=============================================================================
@@ -3427,7 +3427,7 @@ shape_msgs_generate_messages_lisp: cmake_check_build_system
 
 # fast build rule for target.
 shape_msgs_generate_messages_lisp/fast:
-	$(MAKE) -f seven_dof_arm_test/CMakeFiles/shape_msgs_generate_messages_lisp.dir/build.make seven_dof_arm_test/CMakeFiles/shape_msgs_generate_messages_lisp.dir/build
+	$(MAKE) -f z1_arm_test/CMakeFiles/shape_msgs_generate_messages_lisp.dir/build.make z1_arm_test/CMakeFiles/shape_msgs_generate_messages_lisp.dir/build
 .PHONY : shape_msgs_generate_messages_lisp/fast
 
 #=============================================================================
@@ -3440,8 +3440,21 @@ shape_msgs_generate_messages_eus: cmake_check_build_system
 
 # fast build rule for target.
 shape_msgs_generate_messages_eus/fast:
-	$(MAKE) -f seven_dof_arm_test/CMakeFiles/shape_msgs_generate_messages_eus.dir/build.make seven_dof_arm_test/CMakeFiles/shape_msgs_generate_messages_eus.dir/build
+	$(MAKE) -f z1_arm_test/CMakeFiles/shape_msgs_generate_messages_eus.dir/build.make z1_arm_test/CMakeFiles/shape_msgs_generate_messages_eus.dir/build
 .PHONY : shape_msgs_generate_messages_eus/fast
+
+#=============================================================================
+# Target rules for targets named octomap_msgs_generate_messages_cpp
+
+# Build rule for target.
+octomap_msgs_generate_messages_cpp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 octomap_msgs_generate_messages_cpp
+.PHONY : octomap_msgs_generate_messages_cpp
+
+# fast build rule for target.
+octomap_msgs_generate_messages_cpp/fast:
+	$(MAKE) -f z1_arm_test/CMakeFiles/octomap_msgs_generate_messages_cpp.dir/build.make z1_arm_test/CMakeFiles/octomap_msgs_generate_messages_cpp.dir/build
+.PHONY : octomap_msgs_generate_messages_cpp/fast
 
 #=============================================================================
 # Target rules for targets named octomap_msgs_generate_messages_py
@@ -3453,7 +3466,7 @@ octomap_msgs_generate_messages_py: cmake_check_build_system
 
 # fast build rule for target.
 octomap_msgs_generate_messages_py/fast:
-	$(MAKE) -f seven_dof_arm_test/CMakeFiles/octomap_msgs_generate_messages_py.dir/build.make seven_dof_arm_test/CMakeFiles/octomap_msgs_generate_messages_py.dir/build
+	$(MAKE) -f z1_arm_test/CMakeFiles/octomap_msgs_generate_messages_py.dir/build.make z1_arm_test/CMakeFiles/octomap_msgs_generate_messages_py.dir/build
 .PHONY : octomap_msgs_generate_messages_py/fast
 
 #=============================================================================
@@ -3466,7 +3479,7 @@ moveit_ros_planning_gencfg: cmake_check_build_system
 
 # fast build rule for target.
 moveit_ros_planning_gencfg/fast:
-	$(MAKE) -f seven_dof_arm_test/CMakeFiles/moveit_ros_planning_gencfg.dir/build.make seven_dof_arm_test/CMakeFiles/moveit_ros_planning_gencfg.dir/build
+	$(MAKE) -f z1_arm_test/CMakeFiles/moveit_ros_planning_gencfg.dir/build.make z1_arm_test/CMakeFiles/moveit_ros_planning_gencfg.dir/build
 .PHONY : moveit_ros_planning_gencfg/fast
 
 #=============================================================================
@@ -3479,21 +3492,8 @@ octomap_msgs_generate_messages_lisp: cmake_check_build_system
 
 # fast build rule for target.
 octomap_msgs_generate_messages_lisp/fast:
-	$(MAKE) -f seven_dof_arm_test/CMakeFiles/octomap_msgs_generate_messages_lisp.dir/build.make seven_dof_arm_test/CMakeFiles/octomap_msgs_generate_messages_lisp.dir/build
+	$(MAKE) -f z1_arm_test/CMakeFiles/octomap_msgs_generate_messages_lisp.dir/build.make z1_arm_test/CMakeFiles/octomap_msgs_generate_messages_lisp.dir/build
 .PHONY : octomap_msgs_generate_messages_lisp/fast
-
-#=============================================================================
-# Target rules for targets named remove_collision_object
-
-# Build rule for target.
-remove_collision_object: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 remove_collision_object
-.PHONY : remove_collision_object
-
-# fast build rule for target.
-remove_collision_object/fast:
-	$(MAKE) -f seven_dof_arm_test/CMakeFiles/remove_collision_object.dir/build.make seven_dof_arm_test/CMakeFiles/remove_collision_object.dir/build
-.PHONY : remove_collision_object/fast
 
 #=============================================================================
 # Target rules for targets named octomap_msgs_generate_messages_nodejs
@@ -3505,7 +3505,7 @@ octomap_msgs_generate_messages_nodejs: cmake_check_build_system
 
 # fast build rule for target.
 octomap_msgs_generate_messages_nodejs/fast:
-	$(MAKE) -f seven_dof_arm_test/CMakeFiles/octomap_msgs_generate_messages_nodejs.dir/build.make seven_dof_arm_test/CMakeFiles/octomap_msgs_generate_messages_nodejs.dir/build
+	$(MAKE) -f z1_arm_test/CMakeFiles/octomap_msgs_generate_messages_nodejs.dir/build.make z1_arm_test/CMakeFiles/octomap_msgs_generate_messages_nodejs.dir/build
 .PHONY : octomap_msgs_generate_messages_nodejs/fast
 
 #=============================================================================
@@ -3518,34 +3518,8 @@ moveit_ros_manipulation_gencfg: cmake_check_build_system
 
 # fast build rule for target.
 moveit_ros_manipulation_gencfg/fast:
-	$(MAKE) -f seven_dof_arm_test/CMakeFiles/moveit_ros_manipulation_gencfg.dir/build.make seven_dof_arm_test/CMakeFiles/moveit_ros_manipulation_gencfg.dir/build
+	$(MAKE) -f z1_arm_test/CMakeFiles/moveit_ros_manipulation_gencfg.dir/build.make z1_arm_test/CMakeFiles/moveit_ros_manipulation_gencfg.dir/build
 .PHONY : moveit_ros_manipulation_gencfg/fast
-
-#=============================================================================
-# Target rules for targets named octomap_msgs_generate_messages_cpp
-
-# Build rule for target.
-octomap_msgs_generate_messages_cpp: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 octomap_msgs_generate_messages_cpp
-.PHONY : octomap_msgs_generate_messages_cpp
-
-# fast build rule for target.
-octomap_msgs_generate_messages_cpp/fast:
-	$(MAKE) -f seven_dof_arm_test/CMakeFiles/octomap_msgs_generate_messages_cpp.dir/build.make seven_dof_arm_test/CMakeFiles/octomap_msgs_generate_messages_cpp.dir/build
-.PHONY : octomap_msgs_generate_messages_cpp/fast
-
-#=============================================================================
-# Target rules for targets named attach_detach_object
-
-# Build rule for target.
-attach_detach_object: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 attach_detach_object
-.PHONY : attach_detach_object
-
-# fast build rule for target.
-attach_detach_object/fast:
-	$(MAKE) -f seven_dof_arm_test/CMakeFiles/attach_detach_object.dir/build.make seven_dof_arm_test/CMakeFiles/attach_detach_object.dir/build
-.PHONY : attach_detach_object/fast
 
 #=============================================================================
 # Target rules for targets named object_recognition_msgs_generate_messages_nodejs
@@ -3557,7 +3531,7 @@ object_recognition_msgs_generate_messages_nodejs: cmake_check_build_system
 
 # fast build rule for target.
 object_recognition_msgs_generate_messages_nodejs/fast:
-	$(MAKE) -f seven_dof_arm_test/CMakeFiles/object_recognition_msgs_generate_messages_nodejs.dir/build.make seven_dof_arm_test/CMakeFiles/object_recognition_msgs_generate_messages_nodejs.dir/build
+	$(MAKE) -f z1_arm_test/CMakeFiles/object_recognition_msgs_generate_messages_nodejs.dir/build.make z1_arm_test/CMakeFiles/object_recognition_msgs_generate_messages_nodejs.dir/build
 .PHONY : object_recognition_msgs_generate_messages_nodejs/fast
 
 #=============================================================================
@@ -3570,7 +3544,7 @@ test_random_node: cmake_check_build_system
 
 # fast build rule for target.
 test_random_node/fast:
-	$(MAKE) -f seven_dof_arm_test/CMakeFiles/test_random_node.dir/build.make seven_dof_arm_test/CMakeFiles/test_random_node.dir/build
+	$(MAKE) -f z1_arm_test/CMakeFiles/test_random_node.dir/build.make z1_arm_test/CMakeFiles/test_random_node.dir/build
 .PHONY : test_random_node/fast
 
 #=============================================================================
@@ -3583,7 +3557,7 @@ moveit_msgs_generate_messages_nodejs: cmake_check_build_system
 
 # fast build rule for target.
 moveit_msgs_generate_messages_nodejs/fast:
-	$(MAKE) -f seven_dof_arm_test/CMakeFiles/moveit_msgs_generate_messages_nodejs.dir/build.make seven_dof_arm_test/CMakeFiles/moveit_msgs_generate_messages_nodejs.dir/build
+	$(MAKE) -f z1_arm_test/CMakeFiles/moveit_msgs_generate_messages_nodejs.dir/build.make z1_arm_test/CMakeFiles/moveit_msgs_generate_messages_nodejs.dir/build
 .PHONY : moveit_msgs_generate_messages_nodejs/fast
 
 #=============================================================================
@@ -3596,7 +3570,7 @@ test_custom_node: cmake_check_build_system
 
 # fast build rule for target.
 test_custom_node/fast:
-	$(MAKE) -f seven_dof_arm_test/CMakeFiles/test_custom_node.dir/build.make seven_dof_arm_test/CMakeFiles/test_custom_node.dir/build
+	$(MAKE) -f z1_arm_test/CMakeFiles/test_custom_node.dir/build.make z1_arm_test/CMakeFiles/test_custom_node.dir/build
 .PHONY : test_custom_node/fast
 
 #=============================================================================
@@ -3609,7 +3583,7 @@ object_recognition_msgs_generate_messages_cpp: cmake_check_build_system
 
 # fast build rule for target.
 object_recognition_msgs_generate_messages_cpp/fast:
-	$(MAKE) -f seven_dof_arm_test/CMakeFiles/object_recognition_msgs_generate_messages_cpp.dir/build.make seven_dof_arm_test/CMakeFiles/object_recognition_msgs_generate_messages_cpp.dir/build
+	$(MAKE) -f z1_arm_test/CMakeFiles/object_recognition_msgs_generate_messages_cpp.dir/build.make z1_arm_test/CMakeFiles/object_recognition_msgs_generate_messages_cpp.dir/build
 .PHONY : object_recognition_msgs_generate_messages_cpp/fast
 
 #=============================================================================
@@ -3622,21 +3596,8 @@ add_collision_object: cmake_check_build_system
 
 # fast build rule for target.
 add_collision_object/fast:
-	$(MAKE) -f seven_dof_arm_test/CMakeFiles/add_collision_object.dir/build.make seven_dof_arm_test/CMakeFiles/add_collision_object.dir/build
+	$(MAKE) -f z1_arm_test/CMakeFiles/add_collision_object.dir/build.make z1_arm_test/CMakeFiles/add_collision_object.dir/build
 .PHONY : add_collision_object/fast
-
-#=============================================================================
-# Target rules for targets named check_collision
-
-# Build rule for target.
-check_collision: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 check_collision
-.PHONY : check_collision
-
-# fast build rule for target.
-check_collision/fast:
-	$(MAKE) -f seven_dof_arm_test/CMakeFiles/check_collision.dir/build.make seven_dof_arm_test/CMakeFiles/check_collision.dir/build
-.PHONY : check_collision/fast
 
 #=============================================================================
 # Target rules for targets named z1_description_xacro_generated_to_devel_space_
@@ -3650,19 +3611,6 @@ z1_description_xacro_generated_to_devel_space_: cmake_check_build_system
 z1_description_xacro_generated_to_devel_space_/fast:
 	$(MAKE) -f z1_description/CMakeFiles/z1_description_xacro_generated_to_devel_space_.dir/build.make z1_description/CMakeFiles/z1_description_xacro_generated_to_devel_space_.dir/build
 .PHONY : z1_description_xacro_generated_to_devel_space_/fast
-
-#=============================================================================
-# Target rules for targets named z1_test_random_node
-
-# Build rule for target.
-z1_test_random_node: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 z1_test_random_node
-.PHONY : z1_test_random_node
-
-# fast build rule for target.
-z1_test_random_node/fast:
-	$(MAKE) -f z1_test/CMakeFiles/z1_test_random_node.dir/build.make z1_test/CMakeFiles/z1_test_random_node.dir/build
-.PHONY : z1_test_random_node/fast
 
 # Help Target
 help:
@@ -3929,23 +3877,19 @@ help:
 	@echo "... object_recognition_msgs_generate_messages_py"
 	@echo "... shape_msgs_generate_messages_lisp"
 	@echo "... shape_msgs_generate_messages_eus"
+	@echo "... octomap_msgs_generate_messages_cpp"
 	@echo "... octomap_msgs_generate_messages_py"
 	@echo "... moveit_ros_planning_gencfg"
 	@echo "... octomap_msgs_generate_messages_lisp"
-	@echo "... remove_collision_object"
 	@echo "... octomap_msgs_generate_messages_nodejs"
 	@echo "... moveit_ros_manipulation_gencfg"
-	@echo "... octomap_msgs_generate_messages_cpp"
-	@echo "... attach_detach_object"
 	@echo "... object_recognition_msgs_generate_messages_nodejs"
 	@echo "... test_random_node"
 	@echo "... moveit_msgs_generate_messages_nodejs"
 	@echo "... test_custom_node"
 	@echo "... object_recognition_msgs_generate_messages_cpp"
 	@echo "... add_collision_object"
-	@echo "... check_collision"
 	@echo "... z1_description_xacro_generated_to_devel_space_"
-	@echo "... z1_test_random_node"
 .PHONY : help
 
 

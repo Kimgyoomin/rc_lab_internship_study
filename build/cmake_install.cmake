@@ -142,10 +142,11 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("/home/kim/catkin_ws/src/build/mastering_ros_robot_description_pkg/cmake_install.cmake")
   include("/home/kim/catkin_ws/src/build/diff_wheeled_robot_gazebo/cmake_install.cmake")
   include("/home/kim/catkin_ws/src/build/seven_dof_arm_gazebo/cmake_install.cmake")
-  include("/home/kim/catkin_ws/src/build/seven_dof_arm_test/cmake_install.cmake")
+  include("/home/kim/catkin_ws/src/build/z1_arm_test/cmake_install.cmake")
+  include("/home/kim/catkin_ws/src/build/z1_config/cmake_install.cmake")
   include("/home/kim/catkin_ws/src/build/z1_description/cmake_install.cmake")
+  include("/home/kim/catkin_ws/src/build/z1_arm_gazebo/cmake_install.cmake")
   include("/home/kim/catkin_ws/src/build/z1_moveit/cmake_install.cmake")
-  include("/home/kim/catkin_ws/src/build/z1_test/cmake_install.cmake")
 
 endif()
 

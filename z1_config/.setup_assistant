@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: z1_description
+    relative_path: xacro/z1_arm.xacro
+    xacro_args: ""
+  SRDF:
+    relative_path: config/z1_description.srdf
+  CONFIG:
+    author_name: kim
+    author_email: gmin1999@kookmin.ac.kr
+    generated_timestamp: 1701940556
